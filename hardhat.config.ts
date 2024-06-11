@@ -3,7 +3,7 @@ import "@nomicfoundation/hardhat-toolbox";
 import '@nomicfoundation/hardhat-ethers';
 
 // Enter your Private Key here
-const PRIVATE_KEY = 'f3943d3f9935d780467ff31b5e5a68a7e2adf9d5743dcc10286c7b4212bd7290'; 
+const PRIVATE_KEY = ''; 
 
 const config: HardhatUserConfig = {
   solidity: {
